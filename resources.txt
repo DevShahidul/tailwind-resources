@@ -1,0 +1,9 @@
+Tailwind ui components resources
+
+https://tailwindcomponents.com/
+https://flowbite.com/
+https://daisyui.com/
+https://www.hyperui.dev/
+https://merakiui.com/
+https://www.tailwind-kit.com/
+https://tailgrids.com/
